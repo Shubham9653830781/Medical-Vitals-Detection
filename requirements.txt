@@ -1,0 +1,10 @@
+albumentations
+torchmetrics
+paddleocr>=2.0.1 
+paddlepaddle
+segmentation_models_pytorch
+matplotlib
+pandas
+opencv-python
+seaborn
+gradio
